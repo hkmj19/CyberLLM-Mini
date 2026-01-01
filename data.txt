@@ -1,0 +1,17 @@
+Dear user, your account has been suspended. Please click the link to verify your credentials.
+Dear user your mail has been hacked.
+Urgent security alert. Unusual login detected from a new device.
+Your password will expire in 3 days. Update it immediately.
+Suspicious activity detected in your account. Contact support for assistance.
+System login failed. Multiple incorrect attempts detected.
+Firewall blocked an incoming connection from unknown IP address 192.168.1.100.
+Malware scan completed. No threats found.
+Phishing email detected in user inbox. Email marked as spam.
+Access to sensitive data denied due to insufficient permissions.
+Two-factor authentication required to continue login process.
+Unauthorized access attempt detected. Account temporarily locked.
+New software update available. Install immediately to patch vulnerabilities.
+Critical vulnerability detected in web application. Apply security patch.
+Database backup completed successfully.
+Alert: Possible ransomware activity detected on workstation.
+Remember to use strong passwords and enable two-factor authentication.
